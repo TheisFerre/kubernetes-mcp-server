@@ -8,6 +8,8 @@
 *.so
 *.dylib
 
+kubernetes-mcp-server
+
 # Test binary, built with `go test -c`
 *.test
 
